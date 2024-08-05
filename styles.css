@@ -130,9 +130,18 @@ body {
 .blush.left {
   left: 15%;
 }
+
 .blush.right {
   right: 15%;
 }
+
+.beak {
+  height: 10%;
+  background-color: orange;
+  border-radius: 50%;
+}
+
+
 
 .penguin-body {
   width: 53%;
